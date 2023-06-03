@@ -1,7 +1,7 @@
 ## ⭐ GPT3 Website ⭐
 
 This is a static website built using **ReactJs and CSS**.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bd6aabb9-68f4-4a74-9736-7a1560de24bc/deploy-status)](https://app.netlify.com/sites/joao-martins/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54fbff34-791f-480b-858a-601545834e49/deploy-status)](https://app.netlify.com/sites/genuine-pony-3b0899/deploys)
 
 ## 📌 **Live URL:** <a href="https://gpt3.joao-martins.net">**Visit Now** 🚀</a>
 
@@ -15,7 +15,7 @@ This is a static website built using **ReactJs and CSS**.
 
 ## 📌 Overview
 
-![Screenshot](./src/assets/demo/gpt3.gif?raw=true "Hoobank Website")
+![Screenshot](./src/assets/demo/gpt3.gif?raw=true "GPT3 Website")
 
 ## 📬 Connect With Me
 
